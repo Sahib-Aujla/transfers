@@ -1,6 +1,4 @@
-# Turborepo starter
-
-This is an official starter Turborepo.
+# Money Transfer Project
 
 ## Using this example
 
